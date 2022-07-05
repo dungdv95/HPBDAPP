@@ -1,0 +1,47 @@
+.card_avatar {
+    width: 36px;
+    height: 36px;
+}
+
+.card_tick_blue {
+    display: flex;
+    align-items: center;
+}
+
+.icon_tick_custom {
+    margin-left: 5px;
+    color: #1877f2;
+}
+.card_icon_color{
+    color:#f975a6
+}
+.footer_status_custom {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+.icon_custom_like {
+    font-size: 18px;
+    color: #13a0f9;
+}
+.icon_custom_tym {
+    font-size: 18px;
+    color: #fc5b76;
+}
+.under_line {
+    height: 1px;
+    background-color: rgba(208, 215, 222, 0.48);
+    margin: 10px;
+}
+
+.icon_custom {
+    font-size: 18px;
+}
+.padding_25 {
+    display: flex;
+    padding: 20px;
+}
+.icon_gift_custom{
+    margin-left: 5px;
+    color: #e72626;
+}

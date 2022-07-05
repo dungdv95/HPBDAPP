@@ -1,0 +1,35 @@
+.icon_custom {
+    font-size: 41px;
+    color: #1195f4;
+}
+.block_icon_custom {
+    padding: 7px 0px 0px 7px;
+}
+.chip_custom {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+}
+.search_icon_custom {
+    margin: unset;
+    padding-top: 7px;
+    font-size: 20px;
+}
+.left_header_custom{
+    padding: 10px;
+    position: absolute;
+    right: 5px;
+    display: flex;
+}
+.searh_box_custom {
+    width: 35px;
+    height: 35px;
+    background: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.w_custom {
+    min-width: auto;
+}
