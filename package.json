@@ -2,6 +2,7 @@
   "name": "loveApp",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://dungdv95.github.io/HPBDAPP/",
   "dependencies": {
     "@capacitor/android": "3.6.0",
     "@capacitor/app": "1.1.1",
